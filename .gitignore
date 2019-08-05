@@ -12,6 +12,13 @@
 *.cb2
 .*.lb
 
+*~
+.DS_Store
+*.blg
+*.nav
+*.snm
+*.gz
+
 ## Intermediate documents:
 *.dvi
 *.xdv
