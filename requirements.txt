@@ -1,6 +1,6 @@
 astropy==4.0
 numpy==1.18.1
-scipy==1.4.1
+scipy==1.10.0
 pybind11==2.4.3
 corner==2.0.1
 datascience==0.15.3
